@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Bg
+    uniqueID: 960067153
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Fg
+    uniqueID: 3683114679
     locked: 0
