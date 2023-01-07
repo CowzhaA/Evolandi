@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.16f1 (4016570cf34f) revision 4200023'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'fr' Physical Memory: 8067 MB
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'fr' Physical Memory: 32405 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Unity.exe
 -name
 AssetImportWorker1
 -projectPath
-C:/Users/NoName/Documents/GitHub/Evolandi/Evolandi Unity
+C:/Users/scene/OneDrive/Bureau/E-Artsup/Projet Game Jam/Evolandi/Evolandi Unity
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-56487
-Successfully changed project path to: C:/Users/NoName/Documents/GitHub/Evolandi/Evolandi Unity
-C:/Users/NoName/Documents/GitHub/Evolandi/Evolandi Unity
+53854
+Successfully changed project path to: C:/Users/scene/OneDrive/Bureau/E-Artsup/Projet Game Jam/Evolandi/Evolandi Unity
+C:/Users/scene/OneDrive/Bureau/E-Artsup/Projet Game Jam/Evolandi/Evolandi Unity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,112 +47,109 @@ C:/Users/NoName/Documents/GitHub/Evolandi/Evolandi Unity
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [15972] Host "[IP] 10.15.175.175 [Port] 0 [Flags] 2 [Guid] 439056047 [EditorId] 439056047 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-ANSQ19M1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [21388] Host "[IP] 10.15.175.182 [Port] 0 [Flags] 2 [Guid] 2141868185 [EditorId] 2141868185 [Version] 1048832 [Id] WindowsEditor(7,Pc_Ilan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [15972] Host "[IP] 10.15.175.175 [Port] 0 [Flags] 2 [Guid] 439056047 [EditorId] 439056047 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-ANSQ19M1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [21388] Host "[IP] 10.15.175.182 [Port] 0 [Flags] 2 [Guid] 2141868185 [EditorId] 2141868185 [Version] 1048832 [Id] WindowsEditor(7,Pc_Ilan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 117.71 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 86.85 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.16f1 (4016570cf34f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/NoName/Documents/GitHub/Evolandi/Evolandi Unity/Assets
+[Subsystems] Discovering subsystems at path C:/Users/scene/OneDrive/Bureau/E-Artsup/Projet Game Jam/Evolandi/Evolandi Unity/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
     Vendor:   NVIDIA
-    VRAM:     5991 MB
-    Driver:   31.0.15.1659
+    VRAM:     8044 MB
+    Driver:   30.0.15.1278
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56008
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.010620 seconds.
+Registered in 0.004098 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 115.42 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 79.73 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.893 seconds
+- Completed reload, in  0.511 seconds
 Domain Reload Profiling:
-	ReloadAssembly (894ms)
-		BeginReloadAssembly (98ms)
+	ReloadAssembly (511ms)
+		BeginReloadAssembly (64ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (630ms)
-			LoadAssemblies (96ms)
+		EndReloadAssembly (365ms)
+			LoadAssemblies (61ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (150ms)
+			SetupTypeCache (75ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (376ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (230ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (11ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (116ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (185ms)
-				ProcessInitializeOnLoadMethodAttributes (62ms)
+				RefreshPlugins (80ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (105ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010153 seconds.
+Registered in 0.010782 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\NoName\Documents\GitHub\Evolandi\Evolandi Unity\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\NoName\Documents\GitHub\Evolandi\Evolandi Unity\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\scene\OneDrive\Bureau\E-Artsup\Projet Game Jam\Evolandi\Evolandi Unity\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\scene\OneDrive\Bureau\E-Artsup\Projet Game Jam\Evolandi\Evolandi Unity\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 126.25 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 68.02 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.644 seconds
+- Completed reload, in  0.934 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1645ms)
-		BeginReloadAssembly (158ms)
+	ReloadAssembly (935ms)
+		BeginReloadAssembly (91ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (26ms)
-		EndReloadAssembly (1310ms)
-			LoadAssemblies (124ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (745ms)
+			LoadAssemblies (81ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (349ms)
+			SetupTypeCache (198ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (83ms)
-			SetupLoadedEditorAssemblies (687ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (390ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (126ms)
-				BeforeProcessingInitializeOnLoad (135ms)
-				ProcessInitializeOnLoadAttributes (322ms)
-				ProcessInitializeOnLoadMethodAttributes (82ms)
-				AfterProcessingInitializeOnLoad (12ms)
+				RefreshPlugins (68ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (190ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.80 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4048 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 38 unused Assets / (56.1 KB). Loaded Objects now: 4504.
-Memory consumption went from 150.7 MB to 150.6 MB.
-Total: 3.963700 ms (FindLiveObjects: 0.407500 ms CreateObjectMapping: 0.307700 ms MarkObjects: 3.163500 ms  DeleteObjects: 0.084100 ms)
+Unloading 38 unused Assets / (56.5 KB). Loaded Objects now: 4504.
+Memory consumption went from 152.0 MB to 152.0 MB.
+Total: 2.921900 ms (FindLiveObjects: 0.227400 ms CreateObjectMapping: 0.107800 ms MarkObjects: 2.498300 ms  DeleteObjects: 0.087600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -167,7 +164,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 96091.982724 seconds.
+  Time since last request: 100397.387064 seconds.
+  path: Assets/Script
+  artifactKey: Guid(630dc25e0cdc16a42a35f3aaa171e337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(630dc25e0cdc16a42a35f3aaa171e337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd388c93b9445e438a1882a76194125') in 0.009948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
   path: Assets/ASPRITE FILES/default.png
   artifactKey: Guid(65a918e34c7f721429abe7f86ac4f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ASPRITE FILES/default.png using Guid(65a918e34c7f721429abe7f86ac4f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39fb3a756de979045232ec27656f389c') in 0.113884 seconds 
+Start importing Assets/ASPRITE FILES/default.png using Guid(65a918e34c7f721429abe7f86ac4f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aed89dee3f18d8042e1df3ea9adb070') in 0.088508 seconds 
